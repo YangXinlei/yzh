@@ -6,8 +6,9 @@
     width: 225px;
     height: 225px;
     border: 7px solid $white;
+    object-fit: cover;
   }
-  h4 {
+  h5 {
     margin-top: 25px;
     margin-bottom: 0;
     text-transform: none;
