@@ -594,6 +594,17 @@ header.masthead .intro-text .intro-heading {
   margin-top: 25px;
   margin-bottom: 0;
   text-transform: none;
+  font-weight: 200;
+  font-size: 18px;
+}
+.team-member h4 {
+  margin-top: 25px;
+  margin-bottom: 0;
+  text-transform: none;
+  font-weight: 400;
+}
+.team-member i {
+  color: #E66E30;
 }
 
 .team-member p {
