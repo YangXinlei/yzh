@@ -711,3 +711,22 @@ ul.social-buttons li a {
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #E66E30;
 }
+
+
+/* .head-transition-1 {
+  display: block;
+}
+.head-transition-1:hover {
+  display: none;
+}
+.head-transition-1, .head-transition-2 {
+  transition: 1s;
+}
+
+.head-transition-2 {
+  display: none;
+}
+
+.head-transition-2:hover {
+  display: block;
+} */
